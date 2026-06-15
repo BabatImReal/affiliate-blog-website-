@@ -1,0 +1,54 @@
+{
+  "Home": {
+    "title": "Đánh giá sản phẩm đáng tin cậy",
+    "subtitle": "So sánh và lựa chọn thông minh",
+    "heroTitle": "Đánh giá trung thực. Lựa chọn thông minh hơn.",
+    "heroSubtitle": "Chúng tôi thử nghiệm hàng trăm sản phẩm để bạn chọn đúng ngay từ đầu.",
+    "topPickTitle": "Lựa chọn nổi bật tuần này",
+    "latestTitle": "Đánh giá mới nhất",
+    "categoriesTitle": "Khám phá theo danh mục",
+    "seeAll": "Xem tất cả",
+    "ctaTitle": "Không bao giờ mua nhầm nữa",
+    "ctaSubtitle": "Nhận thông báo đánh giá mới nhất từ đội ngũ chuyên gia.",
+    "emailPlaceholder": "Email của bạn",
+    "subscribe": "Đăng ký"
+  },
+  "Nav": {
+    "home": "Trang chủ",
+    "blog": "Bài viết",
+    "tech": "Công nghệ",
+    "home_appliance": "Gia dụng",
+    "audio": "Âm thanh",
+    "beauty": "Làm đẹp",
+    "sport": "Thể thao",
+    "admin": "Quản trị",
+    "search": "Tìm kiếm"
+  },
+  "Blog": {
+    "listingTitle": "Tất cả đánh giá",
+    "readMore": "Xem đánh giá đầy đủ →",
+    "buyNow": "Mua ngay",
+    "ourPick": "Lựa chọn tốt nhất",
+    "ourPickFull": "Lựa chọn tốt nhất của chúng tôi",
+    "alsoGreat": "Cũng rất tốt",
+    "budgetPick": "Giá hợp lý",
+    "pros": "Ưu điểm",
+    "cons": "Nhược điểm",
+    "allCategories": "Tất cả",
+    "reviewCount": "bài đánh giá",
+    "author": "Bởi ReviewHub",
+    "readTime": "phút đọc",
+    "affiliateDisclaimer": "Chúng tôi có thể nhận hoa hồng khi bạn mua qua liên kết của chúng tôi.",
+    "notFound": "Không tìm thấy bài đánh giá"
+  },
+  "Footer": {
+    "tagline": "Đánh giá sản phẩm trung thực từ đội ngũ chuyên gia Việt Nam.",
+    "about": "Về chúng tôi",
+    "categories": "Danh mục",
+    "legal": "Pháp lý",
+    "privacy": "Chính sách bảo mật",
+    "terms": "Điều khoản sử dụng",
+    "affiliate": "Chính sách affiliate",
+    "rights": "© 2024 ReviewHub. Bảo lưu mọi quyền."
+  }
+}

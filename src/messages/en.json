@@ -1,0 +1,54 @@
+{
+  "Home": {
+    "title": "Trustworthy product reviews",
+    "subtitle": "Compare and choose smartly",
+    "heroTitle": "Honest reviews. Smarter choices.",
+    "heroSubtitle": "We test hundreds of products so you get it right the first time.",
+    "topPickTitle": "Top pick of the week",
+    "latestTitle": "Latest reviews",
+    "categoriesTitle": "Explore by category",
+    "seeAll": "See all",
+    "ctaTitle": "Never buy the wrong product again",
+    "ctaSubtitle": "Get the latest reviews from our team of experts.",
+    "emailPlaceholder": "Your email",
+    "subscribe": "Subscribe"
+  },
+  "Nav": {
+    "home": "Home",
+    "blog": "Reviews",
+    "tech": "Tech",
+    "home_appliance": "Home",
+    "audio": "Audio",
+    "beauty": "Beauty",
+    "sport": "Sport",
+    "admin": "Admin",
+    "search": "Search"
+  },
+  "Blog": {
+    "listingTitle": "All reviews",
+    "readMore": "Read full review →",
+    "buyNow": "Buy now",
+    "ourPick": "Our pick",
+    "ourPickFull": "Our top pick",
+    "alsoGreat": "Also great",
+    "budgetPick": "Budget pick",
+    "pros": "Pros",
+    "cons": "Cons",
+    "allCategories": "All",
+    "reviewCount": "reviews",
+    "author": "By ReviewHub",
+    "readTime": "min read",
+    "affiliateDisclaimer": "We may earn a commission when you buy through our links.",
+    "notFound": "Review not found"
+  },
+  "Footer": {
+    "tagline": "Honest product reviews from a Vietnamese team of experts.",
+    "about": "About us",
+    "categories": "Categories",
+    "legal": "Legal",
+    "privacy": "Privacy policy",
+    "terms": "Terms of use",
+    "affiliate": "Affiliate policy",
+    "rights": "© 2024 ReviewHub. All rights reserved."
+  }
+}

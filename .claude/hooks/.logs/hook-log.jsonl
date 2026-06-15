@@ -26,3 +26,721 @@
 {"ts":"2026-06-15T14:01:38.045Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":7,"status":"ok","exit":0,"error":""}
 {"ts":"2026-06-15T14:01:55.046Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
 {"ts":"2026-06-15T14:01:55.053Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":7,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:02:17.141Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:02:17.146Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-\""}
+{"ts":"2026-06-15T14:03:02.422Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:03:02.431Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-\""}
+{"ts":"2026-06-15T14:04:24.698Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:04:24.706Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-\""}
+{"ts":"2026-06-15T14:05:09.803Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/scaffold-tmp\""}
+{"ts":"2026-06-15T14:05:09.832Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":7,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:05:25.685Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:05:25.695Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/scaffold-tmp\""}
+{"ts":"2026-06-15T14:05:45.239Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/scaffold-tmp\""}
+{"ts":"2026-06-15T14:05:45.245Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":7,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:05:58.735Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:05:58.739Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-\""}
+{"ts":"2026-06-15T14:06:15.471Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:06:15.474Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/package.json\""}
+{"ts":"2026-06-15T14:06:20.310Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/package.json\""}
+{"ts":"2026-06-15T14:06:20.310Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:06:20.987Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":7,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:06:21.025Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":39,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:06:25.333Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:06:25.340Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-\""}
+{"ts":"2026-06-15T14:06:42.968Z","hook":"subagent-init","event":"SubagentStart","tool":"","target":"execute-agent","note":"context-injected","dur":189,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:06:47.904Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":7,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:06:47.910Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/process/general-plans/active/project-scaffold_PLAN_15-06-26.md\""}
+{"ts":"2026-06-15T14:06:54.869Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":7,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:06:54.869Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:07:04.131Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:07:04.133Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:07:12.202Z","hook":"privacy-block","event":"PreToolUse","tool":"Glob","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:07:12.204Z","hook":"scout-block","event":"PreToolUse","tool":"Glob","target":"*","note":"Pattern '*' is too broad for project root","dur":3,"status":"block","exit":2,"error":""}
+{"ts":"2026-06-15T14:07:12.209Z","hook":"scout-block","event":"PreToolUse","tool":"Glob","target":"","note":"","dur":7,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:07:12.203Z","hook":"privacy-block","event":"PreToolUse","tool":"Glob","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:07:17.704Z","hook":"privacy-block","event":"PreToolUse","tool":"Glob","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:07:17.706Z","hook":"scout-block","event":"PreToolUse","tool":"Glob","target":"*.json","note":"Pattern '*.json' is too broad for project root","dur":2,"status":"block","exit":2,"error":""}
+{"ts":"2026-06-15T14:07:17.989Z","hook":"privacy-block","event":"PreToolUse","tool":"Glob","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:07:17.992Z","hook":"scout-block","event":"PreToolUse","tool":"Glob","target":"*.{ts,mjs,js}","note":"Pattern '*.{ts,mjs,js}' is too broad for project root","dur":2,"status":"block","exit":2,"error":""}
+{"ts":"2026-06-15T14:07:18.266Z","hook":"privacy-block","event":"PreToolUse","tool":"Glob","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:07:18.271Z","hook":"scout-block","event":"PreToolUse","tool":"Glob","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:07:23.881Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:07:23.889Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/package.json\""}
+{"ts":"2026-06-15T14:07:30.871Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":7,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:07:30.877Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/tsconfig.json\""}
+{"ts":"2026-06-15T14:07:31.392Z","hook":"privacy-block","event":"PreToolUse","tool":"Glob","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:07:31.398Z","hook":"scout-block","event":"PreToolUse","tool":"Glob","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:07:31.747Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/.gitignore\""}
+{"ts":"2026-06-15T14:07:31.753Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:07:39.335Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:07:39.337Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/tailwind.config.ts\""}
+{"ts":"2026-06-15T14:07:39.921Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:07:39.921Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/postcss.config.mjs\""}
+{"ts":"2026-06-15T14:07:40.303Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":7,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:07:40.309Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/next.config.mjs\""}
+{"ts":"2026-06-15T14:07:40.698Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:07:40.703Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/app/globals.css\""}
+{"ts":"2026-06-15T14:07:47.221Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:07:47.221Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-\""}
+{"ts":"2026-06-15T14:07:56.171Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:07:56.178Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-\""}
+{"ts":"2026-06-15T14:08:11.314Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:08:11.326Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/package.json\""}
+{"ts":"2026-06-15T14:08:11.329Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:08:11.990Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:08:12.022Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":35,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:08:16.096Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-\""}
+{"ts":"2026-06-15T14:08:16.101Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":7,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:08:28.557Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:08:28.558Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-\""}
+{"ts":"2026-06-15T14:08:37.815Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:08:37.826Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":7,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:08:37.827Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/next.config.ts\""}
+{"ts":"2026-06-15T14:08:38.463Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:08:38.497Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":35,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:08:39.230Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:08:39.237Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":8,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:08:39.245Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/drizzle.config.ts\""}
+{"ts":"2026-06-15T14:08:39.861Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"reminder-injected","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:08:39.896Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":34,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:08:45.067Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/tsconfig.json\""}
+{"ts":"2026-06-15T14:08:45.070Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:08:45.726Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:08:45.766Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":40,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:08:51.962Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:08:51.966Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:08:51.971Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/.env.example\""}
+{"ts":"2026-06-15T14:08:52.426Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:08:52.460Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":35,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:09:00.794Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":7,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:09:00.794Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/.gitignore\""}
+{"ts":"2026-06-15T14:09:01.464Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:09:01.500Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":37,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:09:05.849Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:09:05.859Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/i18n/routing.ts\""}
+{"ts":"2026-06-15T14:09:05.849Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:09:06.528Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:09:06.570Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":41,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:09:07.254Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:09:07.276Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":7,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:09:07.275Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/i18n/navigation.ts\""}
+{"ts":"2026-06-15T14:09:07.967Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:09:08.009Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":47,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:09:09.087Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:09:09.099Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:09:09.103Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/i18n/request.ts\""}
+{"ts":"2026-06-15T14:09:09.836Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:09:09.866Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":39,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:09:11.478Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:09:11.487Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:09:11.489Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/messages/vi.json\""}
+{"ts":"2026-06-15T14:09:12.154Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:09:12.197Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":45,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:09:12.701Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:09:12.712Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:09:12.718Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/messages/en.json\""}
+{"ts":"2026-06-15T14:09:13.342Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:09:13.375Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":38,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:09:23.355Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:09:23.366Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:09:23.367Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/middleware.ts\""}
+{"ts":"2026-06-15T14:09:23.937Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:09:23.976Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":35,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:09:44.917Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:09:44.927Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:09:44.932Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/lib/db/schema.ts\""}
+{"ts":"2026-06-15T14:09:45.586Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:09:45.629Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":42,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:09:47.030Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:09:47.043Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":7,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:09:47.047Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/lib/db/index.ts\""}
+{"ts":"2026-06-15T14:09:47.710Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:09:47.741Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":42,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:09:54.917Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:09:54.921Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:09:54.927Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/lib/auth/server.ts\""}
+{"ts":"2026-06-15T14:09:55.559Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:09:55.596Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":37,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:09:56.821Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:09:56.837Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":8,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:09:56.845Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/lib/auth/client.ts\""}
+{"ts":"2026-06-15T14:09:57.555Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":8,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:09:57.599Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":50,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:09:58.213Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:09:58.231Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/lib/auth/middleware.ts\""}
+{"ts":"2026-06-15T14:09:58.231Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:09:58.902Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:09:58.937Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":34,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:10:01.056Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:10:01.066Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:10:01.070Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/lib/cloudinary.ts\""}
+{"ts":"2026-06-15T14:10:01.680Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":8,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:10:01.721Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":39,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:10:03.345Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:10:03.351Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:10:03.354Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/lib/affiliate.ts\""}
+{"ts":"2026-06-15T14:10:03.998Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:10:04.033Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":37,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:10:14.252Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:10:14.262Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:10:14.262Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/app/api/affiliate/[linkId]/route.ts\""}
+{"ts":"2026-06-15T14:10:14.914Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:10:14.947Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":36,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:10:15.639Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:10:15.644Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":8,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:10:15.661Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/app/api/analytics/route.ts\""}
+{"ts":"2026-06-15T14:10:16.646Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:10:16.679Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":36,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:10:17.327Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:10:17.335Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:10:17.339Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/lib/utils.ts\""}
+{"ts":"2026-06-15T14:10:17.958Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:10:17.994Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":36,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:10:27.626Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:10:27.637Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/components.json\""}
+{"ts":"2026-06-15T14:10:27.640Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:10:28.375Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:10:28.402Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":39,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:10:42.155Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:10:42.158Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:10:42.166Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/app/[locale]/layout.tsx\""}
+{"ts":"2026-06-15T14:10:42.834Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":8,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:10:42.875Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":40,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:10:48.398Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:10:48.398Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/app/layout.tsx\""}
+{"ts":"2026-06-15T14:10:55.017Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:10:55.032Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/app/layout.tsx\""}
+{"ts":"2026-06-15T14:10:55.037Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:10:55.651Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:10:55.681Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":40,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:10:55.924Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:10:55.930Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-\""}
+{"ts":"2026-06-15T14:11:09.632Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:11:09.641Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":7,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:11:09.643Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/app/[locale]/(public)/page.tsx\""}
+{"ts":"2026-06-15T14:11:10.279Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:11:10.315Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":35,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:11:11.583Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:11:11.602Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":9,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:11:11.608Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/app/[locale]/(public)/blog/page.tsx\""}
+{"ts":"2026-06-15T14:11:12.293Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:11:12.329Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":36,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:11:13.152Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:11:13.167Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:11:13.172Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/app/[locale]/(public)/blog/[slug]/page.tsx\""}
+{"ts":"2026-06-15T14:11:13.771Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:11:13.808Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":34,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:11:21.950Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:11:21.963Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:11:21.970Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/app/[locale]/(admin)/dashboard/page.tsx\""}
+{"ts":"2026-06-15T14:11:22.575Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:11:22.611Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":34,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:11:23.420Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:11:23.426Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:11:23.434Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/app/[locale]/(admin)/posts/page.tsx\""}
+{"ts":"2026-06-15T14:11:24.073Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:11:24.105Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":33,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:11:24.784Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:11:24.792Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:11:24.793Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/app/[locale]/(admin)/posts/new/page.tsx\""}
+{"ts":"2026-06-15T14:11:25.428Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:11:25.460Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":38,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:11:26.184Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:11:26.194Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/app/[locale]/(admin)/posts/[id]/edit/page.tsx\""}
+{"ts":"2026-06-15T14:11:26.201Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":8,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:11:26.808Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:11:26.849Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":40,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:11:27.637Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:11:27.645Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:11:27.650Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/app/[locale]/(admin)/links/page.tsx\""}
+{"ts":"2026-06-15T14:11:28.237Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:11:28.271Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":40,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:11:29.034Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:11:29.040Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":9,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:11:29.046Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/app/[locale]/(admin)/media/page.tsx\""}
+{"ts":"2026-06-15T14:11:29.632Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:11:29.668Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":35,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:11:30.304Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":1,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:11:30.309Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:11:30.314Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/app/[locale]/login/page.tsx\""}
+{"ts":"2026-06-15T14:11:30.930Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:11:30.969Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":36,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:11:37.390Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:11:37.392Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":7,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:11:37.400Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/components/layout/locale-switcher.tsx\""}
+{"ts":"2026-06-15T14:11:38.046Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:11:38.088Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":39,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:11:38.444Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:11:38.463Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:11:38.469Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/components/blog/.gitkeep\""}
+{"ts":"2026-06-15T14:11:39.090Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:11:39.129Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":39,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:11:39.373Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:11:39.378Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:11:39.386Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/components/admin/.gitkeep\""}
+{"ts":"2026-06-15T14:11:40.018Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:11:40.054Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":35,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:11:40.291Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:11:40.298Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":7,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:11:40.301Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/components/ui/.gitkeep\""}
+{"ts":"2026-06-15T14:11:40.947Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:11:40.982Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":35,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:11:58.830Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":1,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:11:58.842Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":7,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:11:58.849Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/app/globals.css\""}
+{"ts":"2026-06-15T14:11:59.442Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:11:59.476Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":34,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:12:12.430Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":1,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:12:12.451Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:12:12.454Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/tailwind.config.ts\""}
+{"ts":"2026-06-15T14:12:13.046Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:12:13.076Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":36,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:12:18.940Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:12:18.944Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/package.json\""}
+{"ts":"2026-06-15T14:12:19.806Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:12:19.840Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":38,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:12:24.111Z","hook":"privacy-block","event":"PreToolUse","tool":"Glob","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:12:24.114Z","hook":"scout-block","event":"PreToolUse","tool":"Glob","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:12:24.211Z","hook":"privacy-block","event":"PreToolUse","tool":"Glob","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:12:24.211Z","hook":"scout-block","event":"PreToolUse","tool":"Glob","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:12:30.150Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:12:30.158Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-\""}
+{"ts":"2026-06-15T14:12:38.932Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:12:38.939Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/app/api/affiliate/[linkId]/route.ts\""}
+{"ts":"2026-06-15T14:13:21.092Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":10,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:13:21.093Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/app/api/affiliate/[linkId]/route.ts\""}
+{"ts":"2026-06-15T14:13:21.234Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":7,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:13:21.235Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/middleware.ts\""}
+{"ts":"2026-06-15T14:20:43.544Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":7,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:20:43.549Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/next.config.ts\""}
+{"ts":"2026-06-15T14:20:48.695Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:20:48.704Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/next.config.mjs\""}
+{"ts":"2026-06-15T14:20:48.704Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:20:49.388Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"reminder-injected","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:20:49.422Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":38,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:20:54.245Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:20:54.250Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/next.config.ts\""}
+{"ts":"2026-06-15T14:21:07.855Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:21:07.864Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/next.config.ts\""}
+{"ts":"2026-06-15T14:22:27.928Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:22:27.927Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:22:43.195Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:22:43.202Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:27:13.217Z","hook":"subagent-init","event":"SubagentStart","tool":"","target":"fast-mode-agent","note":"context-injected","dur":120,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:27:18.010Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:27:18.015Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/tailwind.config.ts\""}
+{"ts":"2026-06-15T14:27:18.962Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/lib/affiliate.ts\""}
+{"ts":"2026-06-15T14:27:18.968Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":9,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:27:19.429Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:27:19.440Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/app/[locale]/layout.tsx\""}
+{"ts":"2026-06-15T14:27:19.894Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/next.config.mjs\""}
+{"ts":"2026-06-15T14:27:19.908Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":8,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:27:20.379Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":9,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:27:20.384Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/app/globals.css\""}
+{"ts":"2026-06-15T14:27:20.986Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/components/layout/locale-switcher.tsx\""}
+{"ts":"2026-06-15T14:27:20.989Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:27:26.179Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":7,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:27:26.188Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/i18n/navigation.ts\""}
+{"ts":"2026-06-15T14:27:26.673Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":8,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:27:26.673Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/i18n/routing.ts\""}
+{"ts":"2026-06-15T14:27:27.149Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":8,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:27:27.155Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/messages/vi.json\""}
+{"ts":"2026-06-15T14:27:27.677Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:27:27.684Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/messages/en.json\""}
+{"ts":"2026-06-15T14:27:28.193Z","hook":"scout-block","event":"PreToolUse","tool":"Glob","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:27:28.195Z","hook":"privacy-block","event":"PreToolUse","tool":"Glob","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:27:28.418Z","hook":"privacy-block","event":"PreToolUse","tool":"Glob","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:27:28.423Z","hook":"scout-block","event":"PreToolUse","tool":"Glob","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:27:35.952Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:27:35.960Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-\""}
+{"ts":"2026-06-15T14:27:36.464Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:27:36.468Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/tsconfig.json\""}
+{"ts":"2026-06-15T14:27:36.696Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/package.json\""}
+{"ts":"2026-06-15T14:27:36.701Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":7,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:27:48.607Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:27:48.610Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/app/[locale]/(public)/page.tsx\""}
+{"ts":"2026-06-15T14:27:49.111Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:27:49.115Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/app/[locale]/(public)/blog/page.tsx\""}
+{"ts":"2026-06-15T14:27:50.074Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:27:50.080Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/app/[locale]/(public)/blog/[slug]/page.tsx\""}
+{"ts":"2026-06-15T14:27:50.742Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":9,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:27:50.745Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/components/ui/button.tsx\""}
+{"ts":"2026-06-15T14:27:50.894Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":8,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:27:50.894Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/components/ui/badge.tsx\""}
+{"ts":"2026-06-15T14:28:03.639Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:28:03.643Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-\""}
+{"ts":"2026-06-15T14:31:46.857Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:31:46.859Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:31:47.330Z","hook":"privacy-block","event":"PreToolUse","tool":"Glob","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:31:47.337Z","hook":"scout-block","event":"PreToolUse","tool":"Glob","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:31:47.559Z","hook":"privacy-block","event":"PreToolUse","tool":"Glob","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:31:47.566Z","hook":"scout-block","event":"PreToolUse","tool":"Glob","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:32:18.064Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:32:18.085Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":8,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:32:18.087Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/process/features/blog-reviews/active/ui-prototype_PLAN_15-06-26.md\""}
+{"ts":"2026-06-15T14:32:18.730Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"reminder-injected","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:32:18.770Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":40,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:32:28.656Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:32:28.662Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/tailwind.config.ts\""}
+{"ts":"2026-06-15T14:32:29.378Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":9,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:32:29.425Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":55,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:32:34.316Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:32:34.323Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/app/globals.css\""}
+{"ts":"2026-06-15T14:32:34.972Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":7,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:32:35.001Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":44,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:32:40.036Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/next.config.mjs\""}
+{"ts":"2026-06-15T14:32:40.040Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:32:40.917Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:32:40.965Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":50,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:32:55.328Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:32:55.334Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":7,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:32:55.339Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/messages/vi.json\""}
+{"ts":"2026-06-15T14:32:56.027Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":7,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:32:56.072Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":43,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:33:05.482Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:33:05.488Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":7,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:33:05.501Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/messages/en.json\""}
+{"ts":"2026-06-15T14:33:06.194Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":8,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:33:06.234Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":46,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:33:26.443Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:33:26.464Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":7,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:33:26.471Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/lib/mock-data.ts\""}
+{"ts":"2026-06-15T14:33:27.120Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:33:27.154Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":42,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:33:33.958Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:33:33.971Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:33:33.976Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/components/layout/locale-switcher.tsx\""}
+{"ts":"2026-06-15T14:33:34.599Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":7,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:33:34.638Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":50,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:33:48.294Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:33:48.310Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/components/layout/header.tsx\""}
+{"ts":"2026-06-15T14:33:48.323Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":7,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:33:48.929Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:33:48.967Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":42,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:34:01.960Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:34:01.970Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":7,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:34:01.975Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/components/layout/footer.tsx\""}
+{"ts":"2026-06-15T14:34:02.753Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:34:02.803Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":50,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:34:08.516Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":8,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:34:08.524Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/components/layout/footer.tsx\""}
+{"ts":"2026-06-15T14:34:09.290Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":7,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:34:09.332Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":43,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:34:14.168Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":9,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:34:14.176Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/components/layout/footer.tsx\""}
+{"ts":"2026-06-15T14:34:15.011Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":11,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:34:15.072Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":56,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:34:28.997Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:34:29.011Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:34:29.017Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/components/blog/affiliate-button.tsx\""}
+{"ts":"2026-06-15T14:34:29.728Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:34:29.778Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":56,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:34:45.488Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:34:45.497Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/components/blog/post-card.tsx\""}
+{"ts":"2026-06-15T14:34:45.508Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:34:46.089Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:34:46.126Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":39,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:34:55.394Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:34:55.408Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/components/blog/verdict-callout.tsx\""}
+{"ts":"2026-06-15T14:34:55.412Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":7,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:34:56.004Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":7,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:34:56.035Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":37,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:35:05.227Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:35:05.240Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/components/blog/pros-cons-block.tsx\""}
+{"ts":"2026-06-15T14:35:05.242Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:35:05.803Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:35:05.839Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":40,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:35:15.922Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:35:15.937Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:35:15.939Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/components/blog/category-filter.tsx\""}
+{"ts":"2026-06-15T14:35:16.540Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:35:16.572Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":37,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:35:22.448Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:35:22.449Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/app/[locale]/layout.tsx\""}
+{"ts":"2026-06-15T14:35:22.976Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:35:23.012Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":38,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:35:28.246Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:35:28.249Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/app/[locale]/layout.tsx\""}
+{"ts":"2026-06-15T14:35:28.810Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:35:28.845Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":42,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:35:45.542Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:35:45.554Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:35:45.558Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/app/[locale]/(public)/page.tsx\""}
+{"ts":"2026-06-15T14:35:46.122Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:35:46.154Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":44,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:35:52.078Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:35:52.085Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:35:52.087Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/app/[locale]/(public)/blog/page.tsx\""}
+{"ts":"2026-06-15T14:35:52.625Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:35:52.661Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":47,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:36:35.832Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:36:35.840Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/app/[locale]/(public)/blog/[slug]/page.tsx\""}
+{"ts":"2026-06-15T14:36:35.842Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:36:36.442Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:36:36.468Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":34,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:36:42.206Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T14:36:42.210Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-\""}
+{"ts":"2026-06-15T15:23:38.354Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":10,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:23:38.366Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-\""}
+{"ts":"2026-06-15T15:25:19.732Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:25:19.732Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-\""}
+{"ts":"2026-06-15T15:26:33.005Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:26:33.016Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":9,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:26:42.723Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:26:42.727Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":8,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:27:01.189Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":9,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:27:01.189Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":7,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:27:16.688Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:27:16.697Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":7,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:27:30.550Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":7,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:27:30.562Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":9,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:33:06.942Z","hook":"session-init","event":"SessionStart","tool":"","target":"","note":"compact","dur":149,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:33:36.713Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:33:36.759Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"allowed-command","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:33:37.558Z","hook":"privacy-block","event":"PreToolUse","tool":"Glob","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:33:37.565Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-\""}
+{"ts":"2026-06-15T15:33:51.090Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:33:51.100Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"C:/Users/ASUS/.claude/skills/ui-ux-pro-max\""}
+{"ts":"2026-06-15T15:38:22.758Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":9,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:38:22.761Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/components/layout/header.tsx\""}
+{"ts":"2026-06-15T15:38:31.457Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:38:31.462Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/components/layout/footer.tsx\""}
+{"ts":"2026-06-15T15:38:31.993Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":8,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:38:32.003Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/components/blog/post-card.tsx\""}
+{"ts":"2026-06-15T15:38:32.464Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":7,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:38:32.472Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/components/blog/verdict-callout.tsx\""}
+{"ts":"2026-06-15T15:38:33.411Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/components/blog/affiliate-button.tsx\""}
+{"ts":"2026-06-15T15:38:33.414Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":8,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:38:34.020Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/components/blog/pros-cons-block.tsx\""}
+{"ts":"2026-06-15T15:38:34.036Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":16,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:38:34.504Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/components/blog/category-filter.tsx\""}
+{"ts":"2026-06-15T15:38:34.519Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":10,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:38:41.441Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:38:41.441Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/tailwind.config.ts\""}
+{"ts":"2026-06-15T15:38:42.356Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":7,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:38:42.360Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/app/[locale]/page.tsx\""}
+{"ts":"2026-06-15T15:38:42.612Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":8,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:38:42.621Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/app/[locale]/blog/page.tsx\""}
+{"ts":"2026-06-15T15:38:47.582Z","hook":"privacy-block","event":"PreToolUse","tool":"Glob","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:38:47.588Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-\""}
+{"ts":"2026-06-15T15:38:48.087Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/app/globals.css\""}
+{"ts":"2026-06-15T15:38:48.090Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":9,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:38:53.941Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/app/[locale]/(public)/page.tsx\""}
+{"ts":"2026-06-15T15:38:53.944Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":9,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:38:54.884Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/app/[locale]/(public)/blog/page.tsx\""}
+{"ts":"2026-06-15T15:38:54.886Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":10,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:38:55.103Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":13,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:38:55.104Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/app/[locale]/(public)/blog/[slug]/page.tsx\""}
+{"ts":"2026-06-15T15:39:47.574Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:39:47.573Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/app/layout.tsx\""}
+{"ts":"2026-06-15T15:39:48.049Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/app/[locale]/layout.tsx\""}
+{"ts":"2026-06-15T15:39:48.052Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":8,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:39:48.521Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":7,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:39:48.527Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/components/layout/locale-switcher.tsx\""}
+{"ts":"2026-06-15T15:40:45.227Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:40:45.234Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/app/[locale]/layout.tsx\""}
+{"ts":"2026-06-15T15:40:45.869Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"reminder-injected","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:40:45.921Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":58,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:40:52.377Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:40:52.380Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/tailwind.config.ts\""}
+{"ts":"2026-06-15T15:40:53.064Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:40:53.104Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":49,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:41:16.360Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":11,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:41:16.361Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/app/globals.css\""}
+{"ts":"2026-06-15T15:41:17.237Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":10,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:41:17.303Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":77,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:41:39.806Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:41:39.818Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:41:39.822Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/components/layout/header.tsx\""}
+{"ts":"2026-06-15T15:41:40.585Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":8,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:41:40.647Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":67,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:41:56.219Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:41:56.243Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":9,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:41:56.248Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/components/blog/affiliate-button.tsx\""}
+{"ts":"2026-06-15T15:41:57.124Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":7,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:41:57.182Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":65,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:42:15.293Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:42:15.306Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/components/blog/post-card.tsx\""}
+{"ts":"2026-06-15T15:42:15.310Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":7,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:42:16.030Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:42:16.079Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":53,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:42:28.597Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:42:28.606Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/components/blog/pros-cons-block.tsx\""}
+{"ts":"2026-06-15T15:42:28.612Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:42:29.339Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":7,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:42:29.396Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":59,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:42:47.115Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:42:47.130Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/components/blog/category-filter.tsx\""}
+{"ts":"2026-06-15T15:42:47.140Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":8,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:42:47.919Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":7,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:42:47.974Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":66,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:42:56.384Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:42:56.393Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/components/blog/verdict-callout.tsx\""}
+{"ts":"2026-06-15T15:42:57.285Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":8,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:42:57.346Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":61,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:43:04.754Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":7,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:43:04.763Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/app/[locale]/(public)/page.tsx\""}
+{"ts":"2026-06-15T15:43:05.521Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":8,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:43:05.571Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":64,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:43:17.263Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:43:17.268Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/components/layout/locale-switcher.tsx\""}
+{"ts":"2026-06-15T15:43:18.352Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":7,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:43:18.414Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":68,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:43:47.376Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/app/[locale]/(public)/page.tsx\""}
+{"ts":"2026-06-15T15:43:47.378Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:43:48.049Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:43:48.107Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":61,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:43:53.101Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:43:53.106Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-\""}
+{"ts":"2026-06-15T15:44:10.592Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-\""}
+{"ts":"2026-06-15T15:44:10.595Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:45:11.229Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:45:11.231Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-\""}
+{"ts":"2026-06-15T15:47:47.869Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:47:47.871Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/.next\""}
+{"ts":"2026-06-15T15:51:44.236Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-\""}
+{"ts":"2026-06-15T15:51:44.239Z","hook":"privacy-block","event":"PreToolUse","tool":"Glob","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:51:48.779Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:51:48.779Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/i18n/navigation.ts\""}
+{"ts":"2026-06-15T15:54:48.123Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:54:48.139Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/components/layout/header.tsx\""}
+{"ts":"2026-06-15T15:54:48.146Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:54:48.800Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"reminder-injected","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T15:54:48.848Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":57,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:07:15.077Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:07:15.080Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"C:/Users/ASUS/.claude/skills/ui-ux-pro-max\""}
+{"ts":"2026-06-15T16:08:36.525Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:08:36.534Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"C:/Users/ASUS/.claude/skills/ui-ux-pro-max\""}
+{"ts":"2026-06-15T16:10:00.872Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:10:00.873Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"C:/Users/ASUS/.claude/skills/ui-ux-pro-max\""}
+{"ts":"2026-06-15T16:10:40.767Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:10:40.768Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"C:/Users/ASUS/.clone/skills/ui-ux-pro-max\""}
+{"ts":"2026-06-15T16:11:40.354Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:11:40.361Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"C:/Users/ASUS/.claude/skills/ui-ux-pro-max\""}
+{"ts":"2026-06-15T16:12:58.818Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"C:/Users/ASUS/.claude/skills/ui-ux-pro-max\""}
+{"ts":"2026-06-15T16:12:58.824Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:21:23.645Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/lib/mock-data.ts\""}
+{"ts":"2026-06-15T16:21:23.645Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:21:24.144Z","hook":"privacy-block","event":"PreToolUse","tool":"Glob","target":"","note":"","dur":7,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:21:24.144Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-\""}
+{"ts":"2026-06-15T16:21:54.813Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":1,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:21:54.830Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:21:54.833Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/lib/mock-data.ts\""}
+{"ts":"2026-06-15T16:21:55.494Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":7,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:21:55.564Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":72,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:22:07.987Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:22:08.007Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:22:08.007Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/components/blog/score-badge.tsx\""}
+{"ts":"2026-06-15T16:22:08.674Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:22:08.737Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":69,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:22:19.797Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:22:19.806Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/components/blog/star-rating.tsx\""}
+{"ts":"2026-06-15T16:22:19.808Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:22:20.453Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:22:20.512Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":66,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:22:30.935Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:22:30.943Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:22:30.949Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/components/blog/mobile-buy-bar.tsx\""}
+{"ts":"2026-06-15T16:22:31.613Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:22:31.670Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":63,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:24:32.063Z","hook":"session-init","event":"SessionStart","tool":"","target":"","note":"compact","dur":135,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:24:47.177Z","hook":"privacy-block","event":"PreToolUse","tool":"Glob","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:24:47.178Z","hook":"scout-block","event":"PreToolUse","tool":"Glob","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:24:47.442Z","hook":"scout-block","event":"PreToolUse","tool":"Glob","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:24:47.444Z","hook":"privacy-block","event":"PreToolUse","tool":"Glob","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:24:54.833Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/lib/affiliate.ts\""}
+{"ts":"2026-06-15T16:24:54.842Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:24:55.380Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/components/blog/post-card.tsx\""}
+{"ts":"2026-06-15T16:24:55.385Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:24:55.698Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/components/blog/verdict-callout.tsx\""}
+{"ts":"2026-06-15T16:24:55.711Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":9,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:25:03.846Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:25:03.850Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/app/[locale]/(public)/page.tsx\""}
+{"ts":"2026-06-15T16:25:04.406Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/app/[locale]/(public)/blog/page.tsx\""}
+{"ts":"2026-06-15T16:25:04.412Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:25:04.836Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/app/[locale]/(public)/blog/[slug]/page.tsx\""}
+{"ts":"2026-06-15T16:25:04.839Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":7,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:25:41.324Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/components/blog/post-card.tsx\""}
+{"ts":"2026-06-15T16:25:41.328Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:25:41.945Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"reminder-injected","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:25:42.015Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":72,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:25:46.367Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":1,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:25:46.381Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/components/layout/trust-bar.tsx\""}
+{"ts":"2026-06-15T16:25:46.385Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:25:47.008Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":7,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:25:47.065Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":67,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:25:50.762Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":1,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:25:50.772Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/components/layout/category-card.tsx\""}
+{"ts":"2026-06-15T16:25:50.776Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:25:51.440Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:25:51.496Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":66,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:25:59.598Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:25:59.598Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/components/blog/post-card.tsx\""}
+{"ts":"2026-06-15T16:26:00.223Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:26:00.285Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":69,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:26:06.443Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:26:06.446Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/components/blog/post-card.tsx\""}
+{"ts":"2026-06-15T16:26:07.055Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":8,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:26:07.110Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":71,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:26:15.430Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/components/blog/post-card.tsx\""}
+{"ts":"2026-06-15T16:26:15.433Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:26:16.091Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":7,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:26:16.176Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":89,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:26:23.739Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/components/blog/verdict-callout.tsx\""}
+{"ts":"2026-06-15T16:26:23.741Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":9,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:26:24.539Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":8,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:26:24.638Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":104,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:26:30.116Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:26:30.123Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/components/blog/verdict-callout.tsx\""}
+{"ts":"2026-06-15T16:26:30.795Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":16,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:26:30.904Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":117,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:26:39.750Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/components/blog/verdict-callout.tsx\""}
+{"ts":"2026-06-15T16:26:39.753Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:26:40.390Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:26:40.460Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":76,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:27:01.332Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":1,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:27:01.343Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:27:01.347Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/app/[locale]/(public)/page.tsx\""}
+{"ts":"2026-06-15T16:27:02.009Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:27:02.067Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":68,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:27:07.288Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/app/[locale]/(public)/blog/page.tsx\""}
+{"ts":"2026-06-15T16:27:07.293Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:27:08.007Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:27:08.074Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":77,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:27:16.965Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:27:16.970Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/app/[locale]/(public)/blog/[slug]/page.tsx\""}
+{"ts":"2026-06-15T16:27:17.643Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":7,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:27:17.708Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":75,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:27:26.715Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/app/[locale]/(public)/blog/[slug]/page.tsx\""}
+{"ts":"2026-06-15T16:27:26.718Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:27:27.302Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:27:27.377Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":71,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:27:33.224Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:27:33.230Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/app/[locale]/(public)/blog/[slug]/page.tsx\""}
+{"ts":"2026-06-15T16:27:33.843Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":7,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:27:33.910Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":78,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:27:44.501Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":7,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:27:44.504Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/app/[locale]/(public)/blog/[slug]/page.tsx\""}
+{"ts":"2026-06-15T16:27:53.771Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/app/[locale]/(public)/blog/[slug]/page.tsx\""}
+{"ts":"2026-06-15T16:27:53.771Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:27:54.399Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:27:54.470Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":78,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:28:00.228Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:28:00.230Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/app/[locale]/(public)/blog/[slug]/page.tsx\""}
+{"ts":"2026-06-15T16:28:00.843Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:28:00.918Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":76,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:28:06.409Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:28:06.414Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/components/blog/mobile-buy-bar.tsx\""}
+{"ts":"2026-06-15T16:28:07.029Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:28:07.100Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":75,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:28:13.487Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:28:13.494Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-\""}
+{"ts":"2026-06-15T16:28:44.607Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/components/blog/category-filter.tsx\""}
+{"ts":"2026-06-15T16:28:44.610Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:28:56.320Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:28:56.326Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-/src/components/blog/category-filter.tsx\""}
+{"ts":"2026-06-15T16:28:57.015Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":8,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:28:57.094Z","hook":"session-state","event":"PostToolUse","tool":"","target":"","note":"handled","dur":86,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:29:02.496Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-15T16:29:02.497Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Data/review-blog-project/affiliate-blog-website-\""}
