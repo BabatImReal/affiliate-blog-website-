@@ -61,5 +61,8 @@
         ]
       }
     ]
+  },
+  "enabledPlugins": {
+    "qa-test-generator@babatimreal-qa": true
   }
 }
